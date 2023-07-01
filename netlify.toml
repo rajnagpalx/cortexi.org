@@ -3,3 +3,8 @@ from = "/index.html"
 to = "/"
 status = 301
 force = true
+
+[[redirects]]
+from = "/order"
+to = "https://cortexis.org/"
+force = true
